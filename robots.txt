@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Specifically allow assets for Google Ads Asset Generation
+Allow: /src/assets/
+Allow: /public/
+Allow: /*.css
+Allow: /*.js
+Allow: /*.png
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.gif
+Allow: /*.svg
+Allow: /*.webp
+
+# Sitemap location
+Sitemap: https://open-chat.us/sitemap.xml

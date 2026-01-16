@@ -1,0 +1,21 @@
+{
+  "name": "AIQTChat - Real-time Community Chat",
+  "short_name": "AIQTChat",
+  "description": "Modern, real-time, open community chat platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f23",
+  "theme_color": "#00ff88",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/lovable-uploads/871b955e-efd1-4849-b508-b08541527fbe.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["social", "communication"],
+  "lang": "en",
+  "dir": "ltr"
+}
