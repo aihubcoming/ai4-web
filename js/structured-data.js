@@ -2,7 +2,7 @@
 const structuredData = {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "AIQTChat",
+  "name": "IMAIET",
   "description": "Modern, real-time, open community chat platform with private messaging, multi-theme UI, and crypto donation support.",
   "url": "https://open-chat.us",
   "applicationCategory": "CommunicationApplication",
@@ -14,7 +14,7 @@ const structuredData = {
   },
   "author": {
     "@type": "Organization",
-    "name": "AIQTChat"
+    "name": "IMAIET"
   }
 };
 
